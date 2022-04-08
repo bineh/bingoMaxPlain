@@ -5,7 +5,6 @@ import BingoContainer from "./BingoContainer";
 function App() {
   return (
     <div className="App">
-      teststete
       <BingoContainer />
     </div>
   );
